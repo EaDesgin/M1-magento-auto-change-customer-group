@@ -1,0 +1,1 @@
+# M1-magento-auto-change-customer-group
